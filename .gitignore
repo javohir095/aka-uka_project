@@ -1,0 +1,86 @@
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Environment and config
+.env
+.env.local
+.env.*.local
+*.local
+
+# Package managers
+node_modules/
+vendor/
+venv/
+env/
+.venv/
+__pycache__/
+
+# Build outputs
+dist/
+build/
+out/
+target/
+release/
+debug/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.backup
+*.old
+
+# Archives (usually not needed in repo)
+*.7z
+*.rar
+*.zip
+*.tar
+*.gz
+*.bz2
+
+# Certificates and keys
+*.pem
+*.key
+*.crt
+*.p12
+
+# Secret files
+*.secret
+*.secrets
+secrets.yml
+config/secrets.yml
