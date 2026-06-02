@@ -1,9 +1,4 @@
-# Vercel
-.vercel
-vercel.log
-
 # Build files
-dist
 build
 
 # Node
