@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom'
 
 const navLinks = [
   { label: 'Blog',    href: '/blog' },
+  { label: 'Videolar', href: '/videos' },
   { label: 'Resume',  href: '/resume' },
   { label: 'Haqimda', href: '/about' },
   { label: 'Kanal',   href: 'https://t.me/dasturlash_hayot', external: true },

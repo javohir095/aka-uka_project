@@ -6,6 +6,7 @@ import BlogPage from './pages/BlogPage'
 import PostPage from './pages/PostPage'
 import AboutPage from './pages/AboutPage'
 import ResumePage from './pages/ResumePage'
+import VideoPage from './pages/VideoPage'
 import NotFoundPage from './pages/NotFoundPage'
 
 export default function App() {
@@ -18,6 +19,7 @@ export default function App() {
         <Route path="/blog/:id"  element={<PostPage />} />
         <Route path="/about"     element={<AboutPage />} />
         <Route path="/resume"    element={<ResumePage />} />
+        <Route path="/videos"    element={<VideoPage />} />
         <Route path="*"          element={<NotFoundPage />} />
       </Routes>
       <Footer />

@@ -21,6 +21,17 @@ export interface Skill {
   level: number
 }
 
+export interface Video {
+  id: string
+  name: string
+  description: string
+  url: string
+  poster?: string
+  date: string
+  category: 'loyiha' | 'dars' | 'qisqa' | 'boshqa'
+  duration?: string
+}
+
 export interface Profile {
   name: string
   nameEn: string

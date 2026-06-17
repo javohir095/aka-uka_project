@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import type { Post, Profile } from '../types'
+import type { Post, Profile, Video } from '../types'
 
 export function usePosts() {
   const [posts, setPosts] = useState<Post[]>([])
@@ -62,4 +62,28 @@ export function useProfile() {
   }, [])
 
   return { profile, loading }
+}
+
+export function useVideos() {
+  const [videos, setVideos] = useState<Video[]>([])
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
+
+  useEffect(() => {
+    fetch('/data/videos.json')
+      .then(r => r.json())
+      .then((data: Video[]) => {
+        const sorted = [...data].sort(
+          (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+        )
+        setVideos(sorted)
+        setLoading(false)
+      })
+      .catch(() => {
+        setError('Videolar yuklanmadi')
+        setLoading(false)
+      })
+  }, [])
+
+  return { videos, loading, error }
 }

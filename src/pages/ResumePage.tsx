@@ -1,24 +1,49 @@
 import { useProfile } from '../hooks/useData'
 
 const experience = [
-    {
+  {
     role: 'Frontend Developer',
     company: 'Amaliyot loyihasi',
-    period: '2024',
+    period: '06.02.2024 — 06.08.2025',
     desc: "React va TypeScript bilan REST API'lar qurish, Telegram botlar yaratish, PostgreSQL bilan ishlash.",
     tags: ['React', 'TypeScript', 'FastAPI', 'PostgreSQL', 'Telegram Bot'],
   },
   {
     role: 'Frontend Developer',
     company: 'Raqamli Nazorat',
-    period: '2025 — hozir',
+    period: '08.08.2025 — 12.06.2026',
     desc: "React va TypeScript bilan REST API'lar qurish, Telegram botlar yaratish, PostgreSQL bilan ishlash.",
     tags: ['React', 'TypeScript', 'FastAPI', 'PostgreSQL', 'Telegram Bot'],
   },
+  {
+    role: 'Frontend and Backend Developer',
+    company: 'Bir nechta real Startap loyihalar',
+    period: '12.06.2026 - hozir',
+    desc: "SaaS platformalar, o'quv markazlari uchun LMS tizimlari, xizmat ko'rsatish korxonalari uchun ERP/POS dasturlari, Telegram botlar va biznes boshqaruv tizimlarini ishlab chiqish. Zamonaviy web texnologiyalar yordamida real biznes muammolariga yechim beruvchi startup loyihalar yaratish.",
+    tags: ['ERP Systems', 'CRM', 'POS', 'React', 'TypeScript', 'Supabase', 'Telegram Automation'],
+  }
 
 ]
 
 const education = [
+  {
+    school: '121-Maktab (Toshkent shahar, Mirzo-Ulug‘bek tumani)',
+    degree: '1-4-sinf',
+    period: '2016-2019',
+    desc: 'Boshlang‘ich ta’limni muvaffaqiyatli tamomlagan. Shu davrda kompyuter texnologiyalari va dasturlashga qiziqish paydo bo‘lgan.',
+  },
+  {
+    school: '6-Maktab (Sirdaryo viloyati, Guliston shahar)',
+    degree: '4-5-sinf',
+    period: '2019-2020',
+    desc: 'Shu davrda kompyuter texnologiyalari va dasturlashga qiziqish paydo bo‘lgan.',
+  },
+  {
+    school: '308-Maktab (Toshkent shahar, Mirzo-Ulug‘bek tumani)',
+    degree: '6-9-sinf',
+    period: '2020-2025',
+    desc: 'Shu davrda kompyuter texnologiyalari va dasturlashga qiziqish paydo bo‘lgan.',
+  },
   {
     school: 'Mirzobod tumani texnikumi',
     degree: '2-kurs (hozirda)',

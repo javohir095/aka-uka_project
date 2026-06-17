@@ -1,0 +1,61 @@
+[{
+        "id": "portfolio-tanishuv",
+        "name": "Portfolio loyihasiga kirish",
+        "description": "React + Vite + Tailwind bilan qurilgan shaxsiy portfolio loyihasining to'liq ko'rinishi. Arxitektura, sahifalar va funksiyalar haqida.",
+        "url": "/videos/Online boshqaruv Davomat Nazorati.mp4",
+        "poster": "",
+        "date": "2026-05-20",
+        "category": "loyiha",
+        "duration": "3:42"
+    },
+    {
+        "id": "react-hooks-dars",
+        "name": "React Hooks — useState va useEffect",
+        "description": "Eng ko'p ishlatiladigan React hook'larini amaliy misollar bilan tushuntirish. Yangi boshlovchilar uchun qulay format.",
+        "url": "/videos/react-hooks.mp4",
+        "poster": "",
+        "date": "2026-04-15",
+        "category": "dars",
+        "duration": "8:10"
+    },
+    {
+        "id": "tailwind-tips",
+        "name": "Tailwind CSS — 5 ta foydali hiyla",
+        "description": "Har kuni ishlatadigan Tailwind CSS usullari: arbitrary values, group-hover, responsive dizayn va boshqalar.",
+        "url": "/videos/tailwind-tips.mp4",
+        "poster": "",
+        "date": "2026-03-28",
+        "category": "dars",
+        "duration": "5:55"
+    },
+    {
+        "id": "ekomplektasiya-demo",
+        "name": "Ekomplektasiya.uz — loyiha demosi",
+        "description": "Ekomplektasiya.uz platformasining batafsil ko'rsatmasi. Frontend, backend integratsiyasi va UI/UX yechimlar.",
+        "url": "/videos/ekomplektasiya.mp4",
+        "poster": "",
+        "date": "2026-02-10",
+        "category": "loyiha",
+        "duration": "6:30"
+    },
+    {
+        "id": "git-workflow",
+        "name": "Git workflow — amaliy qo'llanma",
+        "description": "Jamoa bilan ishlashda Git branch strategiyasi, commit xabarlari va merge jarayoni.",
+        "url": "/videos/git-workflow.mp4",
+        "poster": "",
+        "date": "2026-01-22",
+        "category": "dars",
+        "duration": "4:15"
+    },
+    {
+        "id": "vite-setup",
+        "name": "Vite + React + TypeScript sozlash",
+        "description": "Yangi loyihani noldan boshlash: Vite konfiguratsiyasi, TypeScript, Tailwind va ESLint sozlamalari.",
+        "url": "/videos/vite-setup.mp4",
+        "poster": "",
+        "date": "2025-12-05",
+        "category": "qisqa",
+        "duration": "2:48"
+    }
+]
