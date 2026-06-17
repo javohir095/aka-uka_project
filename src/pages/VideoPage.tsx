@@ -311,7 +311,7 @@ export default function VideoPage() {
   const [category, setCategory]   = useState('all')
   const [query,    setQuery]       = useState('')
   const [active,   setActive]      = useState<Video | null>(null)
-  const [featured, setFeatured]    = useState(false)
+  const featured = false
 
   const activeCats = useMemo(() => {
     const used = new Set(videos.map(v => v.category))
