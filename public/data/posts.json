@@ -1,11 +1,17 @@
-[{
+[
+    {
         "id": "birinchi-real-loyiha-saboqlari",
         "title": "Birinchi real mijozim uchun sayt yaratganimda nimalarni o'rgandim?",
         "excerpt": "Dasturlashni o'rganish va haqiqiy mijoz uchun loyiha yaratish orasida katta farq bor. Birinchi real loyiham davomida olgan eng muhim saboqlarim.",
         "content": "# Birinchi real mijozim uchun sayt yaratganimda nimalarni o'rgandim?\n\nDasturlashni o'rganayotgan paytda hamma narsa oson tuyuladi. YouTube videolarida barcha kodlar ishlaydi, loyihalar mukammal ko'rinadi. Lekin haqiqiy mijoz uchun loyiha yaratish butunlay boshqa tajriba ekan.\n\n## Mijoz talablarini tushunish\n\nMen birinchi marta korxona uchun sayt yaratishni boshlaganimda eng qiyin qismi kod yozish emasligini tushundim. Eng muhim vazifa mijozning ehtiyojini to'g'ri tushunish ekan.\n\n## Dizayn ham muhim\n\nAvval men uchun sayt ishlashi yetarli deb o'ylardim. Keyinchalik foydalanuvchilar uchun qulay interfeys kod sifati kabi muhimligini tushundim.\n\n## Test qilishni unutmang\n\nHar bir forma, tugma va sahifani bir necha marta sinovdan o'tkazish kerak. Kichik xatolar ham foydalanuvchi tajribasiga salbiy ta'sir qilishi mumkin.\n\n## Xulosa\n\nBirinchi real loyihalarim mukammal emas edi. Lekin aynan ular meni haqiqiy dasturchi sifatida shakllantirdi.",
         "date": "2026-06-02",
         "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=60",
-        "tags": ["frontend", "tajriba", "loyiha", "dasturlash"],
+        "tags": [
+            "frontend",
+            "tajriba",
+            "loyiha",
+            "dasturlash"
+        ],
         "readTime": 5
     },
     {
@@ -15,7 +21,12 @@
         "content": "# Ekomplektasiya.uz loyihasida olgan saboqlarim\n\nEkomplektasiya.uz loyihasi mening dasturchilik faoliyatimdagi muhim bosqichlardan biri bo'ldi.\n\n## Frontend strukturasi\n\nLoyiha davomida komponentlarni to'g'ri tashkil qilish va kodlarni tartibli yozish qanchalik muhimligini tushundim.\n\n## API bilan ishlash\n\nFrontend va backend orasidagi ma'lumot almashinuvi loyihaning asosiy qismi ekanligini amalda ko'rdim.\n\n\n\n## Xulosa\n\nBu loyiha menga professional dasturlashning asosiy qoidalarini amalda o'rgatdi va keyingi loyihalarim uchun katta tajriba bo'ldi.",
         "date": "2026-05-28",
         "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&auto=format&fit=crop&q=60",
-        "tags": ["frontend", "react", "api", "tajriba"],
+        "tags": [
+            "frontend",
+            "react",
+            "api",
+            "tajriba"
+        ],
         "readTime": 6
     },
     {
@@ -25,7 +36,12 @@
         "content": "# 16 yoshimda dasturlash menga nimalarni berdi?\n\nKo'pchilik dasturlash faqat pul topish uchun kerak deb o'ylaydi. Men uchun esa bu bundan ham ko'proq narsani anglatadi.\n\n## Muammolarni hal qilish\n\nHar kuni yangi vazifalar va xatolar chiqadi. Ularni yechish orqali fikrlash qobiliyatim rivojlandi.\n\n## Sabr qilish\n\nBa'zan bir necha soat yozilgan kod ishlamay qoladi. Shunday vaziyatlarda sabr qilishni o'rgandim.\n\n## Mustaqil o'rganish\n\nDasturlash dunyosida o'zingiz izlanmasangiz rivojlana olmaysiz. Shu sababli mustaqil o'qish odatiga ega bo'ldim.\n\n## Xulosa\n\nDasturlash menga nafaqat kasb, balki hayotiy ko'nikmalar ham berdi.",
         "date": "2026-05-20",
         "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop&q=60",
-        "tags": ["hayot", "dasturlash", "yoshlar", "tajriba"],
+        "tags": [
+            "hayot",
+            "dasturlash",
+            "yoshlar",
+            "tajriba"
+        ],
         "readTime": 5
     },
     {
@@ -35,7 +51,12 @@
         "content": "# HGT-1101.uz ni yaratishda yo'l qo'ygan xatolarim\n\nHar bir dasturchi xato qiladi. Muhimi, o'sha xatolardan to'g'ri xulosa chiqarish.\n\n## Dizaynni oldindan rejalashtirmaslik\n\nDastlab dizayn ustida yetarlicha ishlamaganman. Natijada keyinchalik ko'plab o'zgarishlar qilishga to'g'ri kelgan.\n\n## Responsive muammolar\n\nSaytning ayrim qismlari mobil qurilmalarda noto'g'ri ishlagan.\n\n## SEO haqida kech o'ylash\n\nSEO ishlari loyihaning boshida qilinishi kerakligini tushundim.\n\n## Xulosa\n\nHar bir xato keyingi loyihalarim sifatini yaxshilashga yordam berdi.",
         "date": "2026-05-10",
         "imageUrl": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=800&auto=format&fit=crop&q=60",
-        "tags": ["frontend", "seo", "xatolar", "tajriba"],
+        "tags": [
+            "frontend",
+            "seo",
+            "xatolar",
+            "tajriba"
+        ],
         "readTime": 7
     },
     {
@@ -45,7 +66,42 @@
         "content": "# M-GAZ loyihasi menga korporativ saytlar haqida nimani o'rgatdi?\n\nM-GAZ loyihasi oddiy sayt va korporativ sayt orasidagi katta farqni tushunishimga yordam berdi.\n\n## Korporativ saytning maqsadi\n\nBunday saytlar kompaniyaning internetdagi yuzi hisoblanadi. Shu sababli har bir detal muhim.\n\n## Mijoz bilan ishlash\n\nTexnik bilimdan tashqari muloqot ham muhim ekanligini angladim.\n\n## Tezlik va optimizatsiya\n\nSahifalarning tez yuklanishi foydalanuvchi tajribasi uchun juda muhim.\n\n## Xulosa\n\nM-GAZ loyihasi menga korporativ loyihalar bilan ishlashning haqiqiy jarayonini ko'rsatdi va katta tajriba berdi.",
         "date": "2026-04-30",
         "imageUrl": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&auto=format&fit=crop&q=60",
-        "tags": ["korporativ", "frontend", "biznes", "tajriba"],
+        "tags": [
+            "korporativ",
+            "frontend",
+            "biznes",
+            "tajriba"
+        ],
+        "readTime": 6
+    },
+    {
+        "id": "dasturchining-eng-qimmat-resursi-diqqat",
+        "title": "Dasturchining eng qimmat resursi — vaqti emas, diqqati",
+        "excerpt": "Dasturchining ishini faqat kod yozish deb o'ylash xato. Har bir bo'lingan diqqat loyiha tezligi va sifatiga ta'sir qiladi.",
+        "content": "# Dasturchining eng qimmat resursi — vaqti emas, diqqati\n\nKo'pchilik dasturchining ishini shunchaki kod yozish deb o'ylaydi. Aslida esa eng katta ish klaviaturada emas, miyada bo'ladi.\n\nTasavvur qiling: kodning eng murakkab joyini yechayotgan paytingiz...\n\n📞 «Bo'ldimi?»\n📞 «Bir minut chiqib keling.»\n📞 «Tezroq qiling.»\n📞 «Qayerga yetdingiz?»\n\nOradan 10 daqiqa o'tmay yana...\n\n❗️ «Bu joyini o'zgartiramiz.»\n❗️ «Yo'q, eski variant yaxshi ekan.»\n❗️ «Aslida boshqacha qilamiz.»\n❗️ «Mijoz fikrini o'zgartiribdi.»\n\nBugun A, ertaga B, indinga yana A...\n\nKeyin esa bitta savol: «Nega loyiha kechikyapti?»\n\nChunki dasturchi printer emas — unga buyruq bersangiz darrov natija chiqmaydi.\n\nHar safar fikri bo'linganda, u yana muammoni boshidan tahlil qiladi. Har safar talab o'zgarganda esa kechagi mehnatining bir qismi bekorga ketadi.\n\nKod yozish — tugmalarni bosish emas.\n\nKod yozish — bir necha soat davomida diqqatni bitta muammo ustida ushlab turish san'ati.\n\nAgar siz har 10 daqiqada dasturchining diqqatini bo'lsangiz, aslida uning 10 daqiqasini emas, ba'zida 30–60 daqiqalik fikrlash jarayonini yo'qotasiz.\n\nYaxshi menejer har daqiqada holat so'ramaydi. U vazifani aniq belgilaydi, dasturchiga ishlash uchun sharoit yaratadi va natijani kutadi.\n\n## P.S.\n\nAgar loyiha doim kechikayotgan bo'lsa, aybni faqat dasturchidan qidirmang. Ba'zida muammo kodda emas, har kuni o'zgaradigan qarorlar va bo'linayotgan diqqatdadir.",
+        "date": "2026-07-19",
+        "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&auto=format&fit=crop&q=60",
+        "tags": [
+            "dasturlash",
+            "menejment",
+            "diqqat",
+            "ish samaradorligi"
+        ],
+        "readTime": 5
+    },
+    {
+        "id": "rahbarlik-buyruq-berish-emas",
+        "title": "Rahbarlik — buyruq berish emas, odamlarni boshqarishni bilishdir",
+        "excerpt": "Yaxshi rahbar xodimni qo'rquv bilan emas, hurmat bilan boshqaradi. Chunki kuchli jamoa uchun nafaqat ish, balki dam olish ham muhim.",
+        "content": "# Rahbarlik — buyruq berish emas, odamlarni boshqarishni bilishdir\n\nKo'p menejerlar «9:00 dan 18:00 gacha ish — ish» degan gapni faqat o'zlariga qulay bo'lgan paytda eslashadi.\n\nLekin o'sha menejerning o'zi kechasi soat 21:00–22:00 da task yuboradi, yig'ilish qiladi yoki «ertalabgacha tayyor bo'lsin» deydi. Ertasiga esa xuddi hech narsa bo'lmagandek yana 100% sifat, tezlik va kreativlik talab qiladi.\n\nShuni tushunish kerakki, xodim ham inson. Uning oilasi, dam olishi, shaxsiy ishlari va ruhiy holati bor.\n\nDam olmagan inson bir necha kun ishlashi mumkin. Bir necha hafta ham chidashi mumkin. Lekin bu uzoq davom etsa, natija bitta bo'ladi:\n\n• Samaradorlik pasayadi.\n• Motivatsiya yo'qoladi.\n• Ishga bo'lgan qiziqish so'nadi.\n• Oxir-oqibat esa eng yaxshi xodim ham ketishni o'ylay boshlaydi.\n\nKuchli kompaniyalar xodimlarni qo'rquv bilan emas, hurmat bilan ushlab qoladi.\n\nYaxshi rahbar ish vaqtida maksimal natija oladi, ish vaqtidan tashqarida esa xodimning shaxsiy hayotini ham hurmat qiladi. Chunki ertaga yana sifatli ishlaydigan xodim uchun ham dam olish zarur.\n\nInsonning asl fe'l-atvori qiyin vaziyatda emas, manfaat to'qnashganda bilinadi. O'shanda kim adolat tarafida, kim esa faqat o'z kursisini himoya qilayotgani yaqqol ko'rinadi.\n\nPul, lavozim yoki shaxsiy manfaat sinovi kelganda ayrim insonlarning asl qiyofasi namoyon bo'ladi. O'shanda ular adolatni emas, o'z manfaatini himoya qilishni tanlaydi.\n\nUnutmang: yaxshi menejer muvaffaqiyatni jamoasi bilan bo'lishadi, yomon menejer esa muvaffaqiyatni o'ziga yozib, xatolarni xodimiga yuklaydi.\n\n## P.S.\n\nFutbolda ham bir narsani ko'p ko'rganmiz: agar jamoa ketma-ket yutqazaversa, muxlislar faqat futbolchilarni emas, avvalo murabbiyni tanqid qiladi. Chunki natija uchun eng katta mas'uliyat boshqaruvchining zimmasida bo'ladi.\n\nIshxonada ham shunday. Agar har safar «xodim aybdor» degan xulosaga kelayotgan bo'lsangiz, bir marta oynaga ham qarab ko'ring. Balki muammo jamoada emas, boshqaruv uslubidadir.",
+        "date": "2026-07-19",
+        "imageUrl": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&auto=format&fit=crop&q=60",
+        "tags": [
+            "rahbarlik",
+            "menejment",
+            "jamoa",
+            "ish madaniyati"
+        ],
         "readTime": 6
     }
 ]
