@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "birinchi-real-loyiha-saboqlari",
         "title": "Birinchi real mijozim uchun sayt yaratganimda nimalarni o'rgandim?",
         "excerpt": "Dasturlashni o'rganish va haqiqiy mijoz uchun loyiha yaratish orasida katta farq bor. Birinchi real loyiham davomida olgan eng muhim saboqlarim.",
@@ -103,5 +102,21 @@
             "ish madaniyati"
         ],
         "readTime": 6
+    },
+    {
+        "id": "kompaniyadagi-muammo-har-doim-xodim-emas",
+        "title": "Kompaniyadagi eng katta muammo har doim ham xodim emas",
+        "excerpt": "Har safar muammo chiqqanda xodimni ayblash boshqaruv emas. Ba'zida muammo jamoada emas, uni boshqarish uslubidadir.",
+        "content": "# Kompaniyadagi eng katta muammo har doim ham xodim emas\n\nLoyiha kechikdi.\n\nRahbar:\n> \"Xodimlar yaxshi ishlamayapti.\"\n\nSavdo kamaydi.\n\nRahbar:\n> \"Marketing jamoasi o'z ishini bilmaydi.\"\n\nMijoz norozi bo'ldi.\n\nRahbar:\n> \"Xodimlar mijoz bilan ishlashni bilmaydi.\"\n\nBa'zida muammo haqiqatan ham xodimda bo'lishi mumkin.\n\nLekin har safar muammo chiqqanda avtomatik ravishda xodimni ayblash — bu boshqaruv emas.\n\nChunki natijaga faqat xodim emas, butun tizim ta'sir qiladi.\n\nVazifa aniq berildimi?\n\nXodim undan nima kutilayotganini tushundimi?\n\nKerakli resurslar berildimi?\n\nMuddat real edimi?\n\nQarorlar har kuni o'zgartirilmadimi?\n\nBir vaqtning o'zida 10 ta vazifa berilmadimi?\n\nXodim muammo haqida oldindan aytishga qo'rqmaydimi?\n\nEng muhimi — xodimga natija uchun javobgarlik berilib, shu natijaga erishish uchun yetarli vakolat ham berildimi?\n\nKo'plab kompaniyalarda esa manzara boshqacha.\n\nXodimdan tezlik talab qilinadi, lekin qaror qabul qilish huquqi berilmaydi.\n\nNatija talab qilinadi, lekin resurs berilmaydi.\n\nSifat talab qilinadi, lekin muddat doim qisqartiriladi.\n\nTashabbus talab qilinadi, lekin xato qilish kechirilmaydi.\n\nKeyin esa rahbar hayron bo'ladi:\n\n> \"Nega xodimlar tashabbus ko'rsatmayapti?\"\n\nChunki odamlar ko'pincha o'zlari ishlayotgan tizimga moslashadi.\n\nAgar tizimda muammo bo'lsa, yaxshi xodim ham bir muddatdan keyin samarasiz bo'lib qolishi mumkin.\n\nBu xuddi yaxshi futbolchini noto'g'ri pozitsiyada o'ynatib, keyin:\n\n> \"Nega u yaxshi o'ynamayapti?\"\n\ndeb so'rashga o'xshaydi.\n\nBa'zida futbolchi yomon emas.\n\nTaktika noto'g'ri.\n\nBa'zida xodim yomon emas.\n\nBoshqaruv noto'g'ri.\n\nYaxshi rahbar muammo chiqqanda darhol:\n\n> \"Kim aybdor?\"\n\ndeb so'ramaydi.\n\nU avval:\n\n> \"Bu muammo nima sababdan yuzaga keldi?\"\n\ndeb so'raydi.\n\nChunki aybdor topish muammoni vaqtincha yopishi mumkin.\n\nAmmo sababni topish — muammoni qayta takrorlanishidan saqlaydi.\n\nYomon menejer muammo chiqqanda odamni almashtiradi.\n\nYaxshi menejer esa avval tizimni tekshiradi.\n\nChunki ba'zida yomon natija — yomon xodimning emas, noto'g'ri tashkil qilingan ishning natijasidir.\n\n**P.S. Agar jamoangizdagi har bir muammoning javobi doim \"xodim aybdor\" bo'lib chiqayotgan bo'lsa, bir marta tizimni ham tekshirib ko'ring. Balki muammo jamoada emas, uni boshqarish uslubidadir.**",
+        "date": "2026-07-19",
+        "imageUrl": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&auto=format&fit=crop&q=60",
+        "tags": [
+            "rahbarlik",
+            "menejment",
+            "jamoa",
+            "ish",
+            "boshqaruv"
+        ],
+        "readTime": 7
     }
 ]
